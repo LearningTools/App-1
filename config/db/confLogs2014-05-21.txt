@@ -1,0 +1,207 @@
+Time : 18:53:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo) = 
+
+Time : 18:47:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo) = 
+
+Time : 18:39:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo) = 
+
+Time : 18:31:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo) = 
+
+Time : 18:31:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo) = 
+
+Time : 18:31:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo) = 
+
+Time : 18:31:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo) = 
+
+Time : 18:30:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':' at line 1
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo)= :
+
+Time : 18:30:05
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo)= :2014
+
+Time : 18:29:03
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo)= :2014
+
+Time : 18:26:51
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo)= :2014
+
+Time : 18:24:12
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo)= :2014
+
+Time : 18:23:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':' at line 1
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo)= :
+
+Time : 18:23:35
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo)= :2014
+
+Time : 18:23:32
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo)= :2014
+
+Time : 18:23:11
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo)= :2014
+
+Time : 18:22:05
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo)= :2014
+
+Time : 18:21:55
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo)= :2014
+
+Time : 18:19:48
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo)= :2014
+
+Time : 18:19:30
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo)= :2014
+
+Time : 18:19:28
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo)= :2014
+
+Time : 18:17:56
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo)= :2014
+
+Time : 18:16:30
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo)= :2014
+
+Time : 18:16:29
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo)= :2014
+
+Time : 18:16:27
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo)= :2014
+
+Time : 18:16:15
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo)= :2014
+
+Time : 18:10:50
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo)= :2014
+
+Time : 18:10:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':' at line 1
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo)= :
+
+Time : 18:10:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':' at line 1
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo)= :
+
+Time : 18:09:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':' at line 1
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo)= :
+
+Time : 18:09:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':' at line 1
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo)= :
+
+Time : 18:09:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':' at line 1
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo)= :
+
+Time : 18:08:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':' at line 1
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo)= :
+
+Time : 18:07:03
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : SELECT count(*) + 1 FROM actas WHERE year(fechaDepo)= :2014
+
+Time : 17:47:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT count(*) + 1  FROM actas WHERE 
+
+Time : 17:47:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=' at line 1
+Raw SQL : SELECT count(*) + 1  FROM actas WHERE  = 
+
+Time : 17:47:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '=' at line 1
+Raw SQL : SELECT count(*) + 1  FROM actas WHERE  = 
+
+Time : 17:46:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')  =' at line 1
+Raw SQL : SELECT count(*) + 1  FROM actas WHERE  year()  = 
+
+Time : 17:46:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')  =' at line 1
+Raw SQL : SELECT count(*) + 1  FROM actas WHERE  year()  = 
+
+Time : 17:45:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')  = :' at line 1
+Raw SQL : SELECT count(*) + 1  FROM actas WHERE  year()  = :
+
+Time : 17:45:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':' at line 1
+Raw SQL : SELECT count(*) + 1  FROM actas WHERE  year(fechaDepo)  = :
+
+Time : 17:45:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':' at line 1
+Raw SQL : SELECT count(*) + 1  FROM actas WHERE  year(fechaDepo)  = :
+
+Time : 17:45:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':' at line 1
+Raw SQL : SELECT count(*) + 1  FROM actas WHERE  year( fechaDepo )  = :
+
+Time : 17:45:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':' at line 1
+Raw SQL : SELECT count(*) + 1  FROM actas WHERE  year( fechaDepo )  = :
+
+Time : 17:45:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':' at line 1
+Raw SQL : SELECT count(*) + 1  FROM actas WHERE  year( fechaDepo )  = :
+
+Time : 17:45:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':' at line 1
+Raw SQL : SELECT count(*) + 1  FROM actas WHERE  year( fechaDepo )  = :
+
+Time : 17:45:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':' at line 1
+Raw SQL : SELECT count(*) + 1  FROM actas WHERE  year( fechaDepo )  = :
+
+Time : 17:44:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':' at line 1
+Raw SQL : SELECT count(*) + 1  FROM actas WHERE  year( fechaDepo )  = :
+
+Time : 17:44:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':' at line 1
+Raw SQL : SELECT count(*) + 1  FROM actas WHERE  year(fechaDepo)  = :
+
+Time : 17:44:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':' at line 1
+Raw SQL : SELECT count(*) + 1  FROM actas WHERE  year(fechaDepo)  = :
+
+Time : 17:44:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':' at line 1
+Raw SQL : SELECT count(*) + 1  FROM actas WHERE  year(fechaDepo)  = :
+
+Time : 17:43:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':' at line 1
+Raw SQL : SELECT count(*) + 1  FROM actas WHERE  year(fechaDepo)  = :
